@@ -1,4 +1,4 @@
-lists=[1,1,2,3,4,5,5,6,7,8]
+lists=[1,3,5,8,5,1,6,2,2]
 
     let nonDup=[...new Set(lists)];
 
